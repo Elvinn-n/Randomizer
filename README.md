@@ -1,16 +1,16 @@
-# randomizer
+# Randomizer 🎲
 
-A new Flutter project.
+**Randomizer** is a simple Flutter app that helps randomly assign duties like *job 1*, *job 2*, *job 3*, and others to people during a session.
 
-## Getting Started
+## ✨ Features
+- Add names of participants on the spot
+- Randomly assign duties fairly
+- Simple and clean UI
+- No database — resets every session
+- button to copy the assigned duty to clipboard
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Getting Started
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Elvinn-n/Randomizer.git
